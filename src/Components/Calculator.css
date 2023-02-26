@@ -1,0 +1,26 @@
+.MuiButton-label {
+    font-size: x-large;
+  }
+  
+  .MuiButton-containedPrimary {
+    height: 60px;
+    width: 150px;
+    background-color: rgb(115, 29, 105) !important;
+    
+    
+  }
+  table {
+    margin-left: 30%;
+    margin-top: 10%;
+    box-shadow: 1px -1px 4px 0 rgba(0, 0, 0, 0.15),
+        -1px 1px 4px 2px rgba(0, 0, 0, 0.15) !important;
+        border: 1px solid rgb(248, 187, 248);
+        border-radius: 10px;
+        background-color: ghostwhite;
+        
+  }
+ 
+  .MuiInputBase-input {
+    margin-left: 10px !important;
+    font-size: 50px !important;
+  }
